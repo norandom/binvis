@@ -2,7 +2,7 @@
 
 = Introduction =
 
-BinVis is written in C# and utilizes standard .Net components. Therefore it's possible to run BinVis on .Net compatible Windows platforms and [[http://mono-project.com/Main_Page mono]] compatible operating systems:
+BinVis is written in C# and utilizes standard .Net components. Therefore it's possible to run BinVis on .Net compatible Windows platforms and [http://mono-project.com/Main_Page mono] compatible operating systems:
 
   * Windows 2000 - Windows 7
 
@@ -31,6 +31,4 @@ VisualStudio completely manages the build process and you should use it like tha
 Have fun
 wishi
 }}}
-
-
 
